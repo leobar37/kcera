@@ -1,0 +1,20 @@
+{
+  "name": "kcera_landing",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build && npm run assets",
+    "assets": "node scripts/assets.js",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "copy": "^0.3.2",
+    "node-fetch": "^3.0.0",
+    "sass": "^1.42.1",
+    "vite": "^2.5.4"
+  },
+  "dependencies": {
+    "@glidejs/glide": "^3.4.1",
+    "swiper": "^7.0.3"
+  }
+}

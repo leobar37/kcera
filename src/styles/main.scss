@@ -1,0 +1,29 @@
+@import "node_modules/@glidejs/glide/src/assets/sass/glide.core";
+.socials {
+  a {
+    color: white;
+    cursor: pointer;
+    i {
+      font-size: 25px;
+    }
+    transition: 0.2s ease;
+    &:hover {
+      transform: scale(1.08);
+    }
+  }
+}
+
+.products_slider {
+  max-width: 100vw;
+  height: 450px;
+  .glide-slide {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 350px;
+  }
+}
+
+.food-card {
+  width: 250px;
+}
