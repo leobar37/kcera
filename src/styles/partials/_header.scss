@@ -84,6 +84,7 @@
         height: 350px;
         position: relative;
         overflow: hidden;
+        z-index: 5;
         @include layout-bp(lt-md) {
           width: 350px;
           height: 350px;

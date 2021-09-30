@@ -1,3 +1,5 @@
+@charset 'utf-8';
+
 @import "node_modules/@glidejs/glide/src/assets/sass/glide.core";
 @import "vendors/responsive";
 @import "variables";
@@ -23,9 +25,25 @@
   }
 }
 
-.products_slider {
+.footer {
+  overflow: hidden;
   max-width: 100vw;
+}
+.sticky {
+  max-width: 100vw;
+  overflow: hidden;
+}
+.glide__slide {
+  max-width: 350px;
+}
+.products_galery {
+  max-width: 100vw;
+  overflow: hidden;
   height: 450px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   .glide-slide {
     display: flex;
     justify-content: center;

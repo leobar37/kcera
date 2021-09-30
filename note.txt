@@ -1,20 +1,37 @@
-  <video
-                  autoplay=""
-                  loop=""
-                  style="
-                    background-image: url('https://uploads-ssl.webflow.com/612fe3dabe44ebc51bdad9f6/614787ff7f3b7a3e3726d409_video de kacera 02-poster-00001.jpg');
-                  "
-                  muted=""
-                  playsinline=""
-                  data-wf-ignore="true"
-                  data-object-fit="cover"
-                >
-                  <source
-                    src="https://uploads-ssl.webflow.com/612fe3dabe44ebc51bdad9f6/614787ff7f3b7a3e3726d409_video de kacera 02-transcode.mp4"
-                    data-wf-ignore="true"
-                  />
-                  <source
-                    src="https://uploads-ssl.webflow.com/612fe3dabe44ebc51bdad9f6/614787ff7f3b7a3e3726d409_video de kacera 02-transcode.webm"
-                    data-wf-ignore="true"
-                  />
-                </video>
+ <div class="horizontal-section">
+      <div class="sticky">
+      
+          <!-- <div class="list">
+        <div class="food-card horizontal-item"><img src="images/ima_producto.png" loading="lazy" alt=""
+            class="image-5">
+          <h1 class="heading-7">Tiradito 7 colores de Corvina</h1>
+          <div class="text-block-3">10g Proteina <br>4g grasa</div>
+          <div><strong class="bold-text">S/20</strong></div>
+        </div>
+        <div class="food-card horizontal-item"><img src="images/ima_producto.png" loading="lazy" alt=""
+            class="image-5">
+          <h1 class="heading-7">Tiradito 7 colores de Corvina</h1>
+          <div class="text-block-3">10g Proteina <br>4g grasa</div>
+          <div><strong class="bold-text">S/20</strong></div>
+        </div>
+        <div class="food-card horizontal-item"><img src="images/ima_producto.png" loading="lazy" alt=""
+            class="image-5">
+          <h1 class="heading-7">Tiradito 7 colores de Corvina</h1>
+          <div class="text-block-3">10g Proteina <br>4g grasa</div>
+          <div><strong class="bold-text">S/20</strong></div>
+        </div>
+        <div class="food-card horizontal-item"><img src="images/ima_producto.png" loading="lazy" alt=""
+            class="image-5">
+          <h1 class="heading-7">Tiradito 7 colores de Corvina</h1>
+          <div class="text-block-3">10g Proteina <br>4g grasa</div>
+          <div><strong class="bold-text">S/20</strong></div>
+        </div>
+        <div class="food-card horizontal-item"><img src="images/ima_producto.png" loading="lazy" alt=""
+            class="image-5">
+          <h1 class="heading-7">Tiradito 7 colores de Corvina</h1>
+          <div class="text-block-3">10g Proteina <br>4g grasa</div>
+          <div><strong class="bold-text">S/20</strong></div>
+        </div>
+      </div> -->
+        </div>
+      </div>

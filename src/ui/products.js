@@ -1,26 +1,33 @@
 import { fetchProducts } from "../controllers/product";
 import { isTrue, ramdom } from "../utils/shared";
 import Glide from "@glidejs/glide";
-
+import Breakpoints from "@glidejs/glide/src/components/breakpoints";
 export class UIProducts {
   constructor() {
     this.renderProducts();
     console.log("start");
   }
   initializeSlider() {
-    setTimeout(() => {
-      new Glide(".glide", {
-        perView: 4,
-        type: "slider",
-        gap: 5,
-        bound: true,
-        breakpoints: {
-          500: {
-            perView: 2,
-          },
+    new Glide(".glide", {
+      perView: 5,
+      type: "slider",
+      gap: 5,
+      keyboard: true,
+      perTouch: 1,
+      rewind: false,
+      focusAt: 0,
+      bound: true,
+      hoverpause: true,
+      breakpoints: {
+        730: {
+          perView: 2,
         },
-      }).mount();
-    }, 200);
+        450: {
+          perView: 1,
+          startAt: 0,
+        },
+      },
+    }).mount({ Breakpoints });
   }
 
   async renderProducts() {
