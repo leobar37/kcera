@@ -1,0 +1,19 @@
+.btn {
+  padding: 10px 15px;
+  border-radius: 3px;
+  cursor: pointer;
+  transition: 0.2s ease;
+  &:hover {
+    transform: scale(1.08);
+  }
+  &:active {
+    transform: scale(0.7);
+  }
+  &.primary {
+    background: $black;
+    color: $white;
+    &:active {
+      background: rgba($black, $alpha: 0.8);
+    }
+  }
+}

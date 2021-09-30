@@ -35,130 +35,99 @@
       integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm"
       crossorigin="anonymous"
     />
+    <!-- google fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <!-- lato -->
     <link
+      href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,700;0,900;1,700;1,900&display=swap"
       rel="stylesheet"
-      href="https://unpkg.com/swiper@7/swiper-bundle.min.css"
     />
   </head>
 
   <body class="body">
-    <div class="newhero wf-section">
-      <div class="div-block-12">
-        <div class="w-layout-grid grid-4">
-          <div class="hero-div idk">
-            <img
-              src="assets/images/ima_kacera.svg"
-              loading="lazy"
-              alt=""
-              class="image new"
-            />
-            <h1 class="web">
-              <span class="text-span-6">Alimentos con</span> Alto contenido
-              Nutricional<br /><span class="text-span-17"
-                >¡Te llega en minutos!</span
-              >
-            </h1>
-            <div class="div-block-14">
-              <p class="paragraph">¿Quieres un cupón?</p>
-              <div
-                data-w-id="0c2efb99-a79a-bda4-905f-05b8d964387f"
-                data-animation-type="lottie"
-                data-src="assets/documents/cupon.json"
-                data-loop="1"
-                data-direction="1"
-                data-autoplay="1"
-                data-is-ix2-target="0"
-                data-renderer="svg"
-                data-default-duration="9.216666666666667"
-                data-duration="9.216666666666667"
-                class="lottie-animation-2"
-              ></div>
-            </div>
-            <div class="form-block w-form">
-              <form
-                id="email-form"
-                name="email-form"
-                data-name="Email Form"
-                class="form"
-              >
-                <label for="email-2" class="field-label">Recibir cupón</label
-                ><input
-                  type="email"
-                  class="text-field w-input"
-                  maxlength="256"
-                  name="email-2"
-                  data-name="Email 2"
-                  placeholder="Escribe tu correo"
-                  id="email-2"
-                  required=""
-                /><input
-                  type="submit"
-                  value="Recibir"
-                  data-wait="Please wait..."
-                  data-w-id="e3c934d2-6002-05a9-a00b-b78031634d16"
-                  class="submit-button w-button"
-                />
-              </form>
-              <div class="w-form-done">
-                <div>Thank you! Your submission has been received!</div>
-              </div>
-              <div class="w-form-fail">
-                <div>Oops! Something went wrong while submitting the form.</div>
-              </div>
-              <div class="div-block-3"></div>
-            </div>
-          </div>
-          <div class="div-block-11">
-            <img
-              src="assets/images/Frame-3.png"
-              loading="lazy"
-              alt=""
-              class="image-13"
-            />
-            <div class="div-block-13">
-              <div
-                data-poster-url="https://uploads-ssl.webflow.com/612fe3dabe44ebc51bdad9f6/614787ff7f3b7a3e3726d409_video de kacera 02-poster-00001.jpg"
-                data-video-urls="https://uploads-ssl.webflow.com/612fe3dabe44ebc51bdad9f6/614787ff7f3b7a3e3726d409_video de kacera 02-transcode.mp4,https://uploads-ssl.webflow.com/612fe3dabe44ebc51bdad9f6/614787ff7f3b7a3e3726d409_video de kacera 02-transcode.webm"
-                data-autoplay="true"
-                data-loop="true"
-                data-wf-ignore="true"
-                class="
-                  background-video
-                  w-background-video w-background-video-atom
-                "
-              >
-                <video
-                  autoplay=""
-                  loop=""
-                  style="
-                    background-image: url('https://uploads-ssl.webflow.com/612fe3dabe44ebc51bdad9f6/614787ff7f3b7a3e3726d409_video de kacera 02-poster-00001.jpg');
-                  "
-                  muted=""
-                  playsinline=""
-                  data-wf-ignore="true"
-                  data-object-fit="cover"
-                >
-                  <source
-                    src="https://uploads-ssl.webflow.com/612fe3dabe44ebc51bdad9f6/614787ff7f3b7a3e3726d409_video de kacera 02-transcode.mp4"
-                    data-wf-ignore="true"
-                  />
-                  <source
-                    src="https://uploads-ssl.webflow.com/612fe3dabe44ebc51bdad9f6/614787ff7f3b7a3e3726d409_video de kacera 02-transcode.webm"
-                    data-wf-ignore="true"
-                  />
-                </video>
-              </div>
-            </div>
-            <a
-              data-w-id="04234acc-7913-def4-bc5c-396d6c8269bd"
-              href="#"
-              class="btn1 new w-button"
-              ><span class="text-span-13">Ver alimentos y descuentos</span></a
-            >
-          </div>
-        </div>
-      </div>
+    <!-- 
+       Hero       
+      -->
+    <div class="social">
+      <a href="https://www.facebook.com/search/top?q=kacera">
+        <i class="fab fa-facebook"></i>
+      </a>
+
+      <a href="https://www.instagram.com/kacera.pe/">
+        <i class="fab fa-instagram"></i>
+      </a>
+      <a href="">
+        <i class="fab fa-whatsapp"></i>
+      </a>
     </div>
+
+    <nav class="nav">
+      <figure class="logo">
+        <img src="assets/images/logo.svg" alt="Logo" />
+      </figure>
+      <ul class="nav__menu">
+        <li>
+          <a href="">Beneficios</a>
+        </li>
+        <li>
+          <a href=""> Ofertas </a>
+        </li>
+        <li>
+          <a href=""> Ubicación </a>
+        </li>
+        <li>
+          <a href="" class="btn primary"> Catálogo </a>
+        </li>
+      </ul>
+    </nav>
+    <header class="header">
+      <div class="header__content">
+        <section class="content">
+          <h1>Alimentos con alto contenido Nutricional</h1>
+          <p>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cursus quis
+            duis ac
+          </p>
+          <div class="content__input">
+            <p>Obtén un cupon de descuento</p>
+            <input
+              type="email"
+              placeholder="example@example.com"
+              class="control"
+            />
+            <button class="btn primary">Enviar</button>
+          </div>
+          <!-- Input -->
+        </section>
+      </div>
+      <div class="header__media">
+        <figure class="video">
+          <div class="overlay">
+            <button>
+              <i class="fas fa-play"></i>
+            </button>
+          </div>
+
+          <video
+            style="
+              background-image: url('https://uploads-ssl.webflow.com/612fe3dabe44ebc51bdad9f6/614787ff7f3b7a3e3726d409_video de kacera 02-poster-00001.jpg');
+            "
+            muted=""
+          >
+            <source
+              src="https://uploads-ssl.webflow.com/612fe3dabe44ebc51bdad9f6/614787ff7f3b7a3e3726d409_video de kacera 02-transcode.mp4"
+              data-wf-ignore="true"
+            />
+            <source
+              src="https://uploads-ssl.webflow.com/612fe3dabe44ebc51bdad9f6/614787ff7f3b7a3e3726d409_video de kacera 02-transcode.webm"
+              data-wf-ignore="true"
+            />
+          </video>
+        </figure>
+      </div>
+    </header>
+    <!-- End heero -->
     <div class="section wf-section">
       <div
         data-w-id="78ec6bc1-0f91-910c-7ff6-26c38351cdf4"

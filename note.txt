@@ -1,0 +1,20 @@
+  <video
+                  autoplay=""
+                  loop=""
+                  style="
+                    background-image: url('https://uploads-ssl.webflow.com/612fe3dabe44ebc51bdad9f6/614787ff7f3b7a3e3726d409_video de kacera 02-poster-00001.jpg');
+                  "
+                  muted=""
+                  playsinline=""
+                  data-wf-ignore="true"
+                  data-object-fit="cover"
+                >
+                  <source
+                    src="https://uploads-ssl.webflow.com/612fe3dabe44ebc51bdad9f6/614787ff7f3b7a3e3726d409_video de kacera 02-transcode.mp4"
+                    data-wf-ignore="true"
+                  />
+                  <source
+                    src="https://uploads-ssl.webflow.com/612fe3dabe44ebc51bdad9f6/614787ff7f3b7a3e3726d409_video de kacera 02-transcode.webm"
+                    data-wf-ignore="true"
+                  />
+                </video>
