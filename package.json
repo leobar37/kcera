@@ -5,7 +5,8 @@
     "dev": "vite",
     "build": "vite build && npm run assets",
     "assets": "node scripts/assets.js",
-    "serve": "vite preview"
+    "serve": "vite preview",
+    "deploy": "sh scripts/deploy.sh"
   },
   "devDependencies": {
     "copy": "^0.3.2",
@@ -15,6 +16,7 @@
   },
   "dependencies": {
     "@glidejs/glide": "^3.4.1",
+    "animate.css": "^4.1.1",
     "swiper": "^7.0.3"
   }
 }

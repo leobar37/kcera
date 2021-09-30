@@ -1,0 +1,53 @@
+.nav {
+  z-index: 1000;
+  position: fixed;
+  top: 0;
+  display: flex;
+  justify-content: space-between;
+  width: 100vw;
+  padding: 35px 100px;
+  transition: 0.2s ease;
+  @include hoverMenu($black, $black);
+  &.scroll {
+    background-color: white;
+    padding: 20px 100px;
+    .logo {
+      width: 120px;
+    }
+  }
+  .logo {
+    position: relative;
+    width: 150px;
+    img {
+      position: absolute;
+      top: -10px;
+      width: 100%;
+    }
+  }
+  &__menu {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    li {
+      list-style: none;
+      a {
+        color: $black;
+        text-decoration: none;
+      }
+    }
+  }
+  @include layout-bp(lt-sm) {
+    justify-content: flex-start;
+    background-color: white;
+    .logo {
+      width: 120px;
+      img {
+        top: -30px;
+        left: -0px;
+      }
+    }
+    .nav__menu {
+      display: none;
+    }
+  }
+}

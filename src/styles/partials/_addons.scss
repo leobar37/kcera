@@ -1,0 +1,30 @@
+.social {
+  position: fixed;
+  display: flex;
+  flex-direction: column;
+  top: 80%;
+  left: 10px;
+  z-index: 1000;
+  padding: 20px 0;
+  background-color: white;
+  a {
+    margin: 5px;
+    color: $black;
+    padding: 5px;
+    i {
+      font-size: 1.5rem;
+      &:hover {
+        transform: scale(1.08);
+      }
+      &:active {
+        transform: scale(0.7);
+      }
+    }
+  }
+  @include layout-bp(lt-md) {
+    top: 75%;
+  }
+  @include layout-bp(lt-sm) {
+    display: none;
+  }
+}
