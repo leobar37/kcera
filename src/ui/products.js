@@ -1,6 +1,5 @@
 import { fetchProducts } from "../controllers/product";
 import { isTrue, ramdom } from "../utils/shared";
-import Swiper from "swiper";
 import Glide from "@glidejs/glide";
 
 export class UIProducts {

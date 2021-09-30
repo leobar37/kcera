@@ -1,5 +1,5 @@
 const copy = require("copy");
-copy("./assets/**/*.*", "dist/", (err, files) => {
+copy("./assets/**/*.*", "dist/assets/", (err, files) => {
   console.log(err);
   if (err) {
     console.error("copy files error");

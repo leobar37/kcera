@@ -2,7 +2,7 @@ const fetch = require("node-fetch");
 const fs = require("fs");
 const path = require("path");
 const ENDPOINT =
-  "http://185.253.155.200:19810/api/GAppWeb/Productostiendahome?idcliente=0&phone=adasd";
+  "https://api.kacera.pe/api/GAppWeb/Productostiendahome?idcliente=0&phone=adasd";
 
 const main = async () => {
   const data = await fetch(ENDPOINT);

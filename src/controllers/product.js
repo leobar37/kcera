@@ -1,9 +1,7 @@
-// import { api } from "../lib/api.js";
-// import { API } from "../utils/constants";
+import { api } from "../lib/api.js";
+
 const fetchProducts = async (arr) => {
-  // console.log("pre data");
-  // const data = await api();
-  let data = await import("../data/products.json");
+  const data = await api();
 
   return data[arr];
 };
