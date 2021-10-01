@@ -4,10 +4,12 @@ import "./css/practice-0bdd8b.webflow.css";
 import "./css/webflow.css";
 import "./css/style.css";
 import "./styles/main.scss";
+import "sweetalert2/src/sweetalert2.scss";
 import "animate.css";
 import { Nav } from "./ui/nav";
 import { Animation } from "./ui/Animations";
 import { VideoComponent } from "./ui/video";
+import { LadingUi } from "./ui/landing";
 import SmoothScroll from "smooth-scroll";
 window.addEventListener("load", () => {
   // scrollbar
@@ -20,6 +22,7 @@ window.addEventListener("load", () => {
   new Nav();
   new VideoComponent();
   new Animation();
+  new LadingUi();
 });
 
 import("./lib/webflow.js");

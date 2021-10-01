@@ -13,16 +13,19 @@ const wraperFetch = (options) => {
       _init = options.baseUrl;
     }
     if (input) {
+      console.log(input);
       _input = {
+        ...input,
         headers: {
           "Content-type": "application/json",
           ...input.headers,
         },
         body: input?.body && JSON.stringify(input.body),
       };
+      console.log(_input);
     }
     try {
-      const data = await fetch(_init, input);
+      const data = await fetch(_init, _input);
       return data.json();
     } catch (error) {
       throw error;
