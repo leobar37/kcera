@@ -10,7 +10,16 @@
 @import "mixins/menu.scss";
 @import "mixins/hover";
 @import "partials/main";
-
+@font-face {
+  font-family: "Artico expanded";
+  font-weight: 300;
+  src: url("assets/fonts/Artico-Expanded-Light.otf") format("opentype");
+}
+@font-face {
+  font-family: "Artico expanded";
+  font-weight: 600;
+  src: url("assets/fonts/Artico-Expanded-Bold.otf") format("opentype");
+}
 .socials {
   a {
     color: white;

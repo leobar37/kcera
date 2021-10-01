@@ -49,7 +49,6 @@
     <!-- 
        Hero       
       -->
-    <div id="loader"></div>
 
     <div class="social">
       <a href="https://www.facebook.com/search/top?q=kacera">
@@ -69,7 +68,7 @@
         <img src="assets/images/logo.svg" alt="Logo" />
       </figure>
       <ul class="nav__menu">
-        <li>
+        <!-- <li>
           <a data-scroll href="#benefits">Beneficios</a>
         </li>
         <li>
@@ -77,9 +76,14 @@
         </li>
         <li>
           <a data-scroll href="#ubication"> Ubicación </a>
-        </li>
+        </li> -->
         <li>
-          <a href="" class="btn primary"> Catálogo </a>
+          <a
+            href="https://app.olaclick.com/es/kacera-tienda-de-superalimentos"
+            class="btn primary"
+          >
+            Ver alimentos y descuentos
+          </a>
         </li>
       </ul>
     </nav>
@@ -87,11 +91,11 @@
       <div class="header__content">
         <section class="content">
           <h1 class="animate__animated animate__fadeInLeft">
-            Alimentos con alto contenido Nutricional
+            <span> Alimentos con </span> alto contenido Nutricional
           </h1>
           <p>¡Te llega en minutos!</p>
           <div class="content__input animate__animated animate__fadeInUp">
-            <p>Obtén un cupon de descuento</p>
+            <p>¿Quieres un cupón?</p>
             <input
               id="email_cupon"
               type="email"
@@ -105,18 +109,13 @@
       </div>
       <div class="header__media">
         <figure class="video">
-          <div class="overlay">
+          <!-- <div class="overlay">
             <button>
               <i class="fas fa-play"></i>
             </button>
-          </div>
+          </div> -->
 
-          <video
-            style="
-              background-image: url('https://uploads-ssl.webflow.com/612fe3dabe44ebc51bdad9f6/614787ff7f3b7a3e3726d409_video de kacera 02-poster-00001.jpg');
-            "
-            muted=""
-          >
+          <video autoplay loop style="overflow: hidden" muted="">
             <source
               src="https://uploads-ssl.webflow.com/612fe3dabe44ebc51bdad9f6/614787ff7f3b7a3e3726d409_video de kacera 02-transcode.mp4"
               data-wf-ignore="true"
