@@ -9,8 +9,6 @@ export class LadingUi {
     this.handleInput();
   }
   handleInput() {
-    $input.value = "leonardito3458@gmail.com";
-
     $sendCupon.addEventListener("click", async () => {
       const email = $input.value;
       console.log("click");
