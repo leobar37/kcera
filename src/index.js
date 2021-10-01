@@ -11,13 +11,12 @@ import { Animation } from "./ui/Animations";
 import { VideoComponent } from "./ui/video";
 import { LadingUi } from "./ui/landing";
 import SmoothScroll from "smooth-scroll";
+
 window.addEventListener("load", () => {
-  // scrollbar
   new SmoothScroll('a[href*="#"]', {
     speed: 400,
     offset: 0,
   });
-
   new UIProducts();
   new Nav();
   new VideoComponent();

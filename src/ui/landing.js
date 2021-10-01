@@ -1,6 +1,6 @@
 const $input = document.querySelector("#email_cupon");
 const $sendCupon = document.querySelector("#sendCupon");
-import { leobarApi } from "../lib/api";
+import api from "../lib/api";
 import Swal from "sweetalert2";
 import { isEmail } from "../utils/internal";
 export class LadingUi {
@@ -20,12 +20,9 @@ export class LadingUi {
         });
       }
       Swal.showLoading();
-      const resp = await leobarApi("cupon", {
-        method: "POST",
-        body: {
-          email,
-        },
-      });
+
+      const { data: resp } = await api.post("cupon", { email });
+      console.log(resp);
       Swal.hideLoading();
       if (resp.ok) {
         Swal.fire({
