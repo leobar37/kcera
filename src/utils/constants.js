@@ -3,3 +3,5 @@ export const API =
 
 export const API_EMAIL = "https://kacera.videsolutions.me";
 // export const API_EMAIL = "https://faff-190-42-88-169.ngrok.io/";
+
+export const API_EMAIL_TWO = "https://api.kacera.pe/api/";

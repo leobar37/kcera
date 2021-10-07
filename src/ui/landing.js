@@ -1,17 +1,18 @@
 const $input = document.querySelector("#email_cupon");
 const $sendCupon = document.querySelector("#sendCupon");
+import { apiBase } from "../lib/api";
 import api from "../lib/api";
 import Swal from "sweetalert2";
 import { isEmail } from "../utils/internal";
 export class LadingUi {
   constructor() {
-    console.log("sende");
+    console.log("register");
     this.handleInput();
   }
   handleInput() {
+    console.log("cupon");
     $sendCupon.addEventListener("click", async () => {
       const email = $input.value;
-      console.log("click");
       if (!isEmail(email)) {
         console.log("hola");
         Swal.fire({
@@ -19,12 +20,17 @@ export class LadingUi {
           title: ` ${email} no parece ser una email`,
         });
       }
-      Swal.showLoading();
+      // Swal.showLoading();
 
-      const { data: resp } = await api.post("cupon", { email });
-      console.log(resp);
+      const { data: resp } = await apiBase.get("ClienteApp/Enviaremail", {
+        params: {
+          email,
+        },
+      });
+
       Swal.hideLoading();
-      if (resp.ok) {
+      console.log(resp);
+      if (resp.estatus == 200) {
         Swal.fire({
           icon: "success",
           title: `Hemos enviado un email con tu cupón de descuento a ${email}`,

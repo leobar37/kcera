@@ -16,9 +16,9 @@ export class VideoComponent {
       player.hideNativeControls();
       overlay$.classList.remove("hide");
     });
-    play$.addEventListener("click", () => {
-      player.tooglePlay();
-    });
+    // play$.addEventListener("click", () => {
+    //   player.tooglePlay();
+    // });
   }
   init() {}
 }

@@ -15,8 +15,7 @@ export class VideoPlayer {
     } else {
       this.element = options.element;
     }
-    console.log("wrapper");
-    console.log(this.element);
+
     this.playClass = options.playClass || "play";
     this.muteClass = options.muteClass || "mute";
 
@@ -44,7 +43,6 @@ export class VideoPlayer {
       const callbacks = this.events.get(event);
       callbacks.push(callbacks);
     } else if (this._validEvents.includes(event)) {
-      console.log("callback register", event);
       this.events.set(event, [callback]);
     } else {
       throw new Error("not valid event" + event);
@@ -56,7 +54,6 @@ export class VideoPlayer {
     this.video.addEventListener("play", (e) => {
       this.element.classList.add(this.playClass);
       const callbacks = this.events.get("play");
-      console.log("play", callbacks);
       if (callbacks) {
         callbacks.forEach((d) => d(e));
       }
