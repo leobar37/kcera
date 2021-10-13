@@ -1,0 +1,51 @@
+@import "variables";
+@import "vendors/responsive";
+@import "button";
+// @import "terms";
+@import "vendors/fonts";
+
+body {
+  font-family: $font-body;
+}
+main {
+  display: flex;
+  max-width: 1200px;
+  flex-direction: column;
+  margin: 20px auto;
+  @include layout-bp(lt-sm) {
+    padding-top: 1rem;
+  }
+  justify-content: flex-start;
+  .back {
+    display: block;
+    background: transparent;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    max-width: 30px;
+    i {
+      font-size: 2rem;
+      opacity: 0.3;
+    }
+    transition: 0.2s ease;
+    &:hover {
+      i {
+        opacity: 1;
+      }
+      transform: scale(1.08);
+    }
+    &:active {
+      transform: scale(0.8);
+    }
+  }
+}
+#terms {
+  margin: 0 auto;
+  h1 {
+    font-weight: bold;
+    font-size: 3rem;
+    @include layout-bp(lt-sm) {
+      text-align: center;
+    }
+  }
+}

@@ -1,7 +1,7 @@
 #!bin/sh
 
 set -e
-
+npm run build
 git add .
 git commit -m "chore: deploy version 1.0.1"
 git checkout main
