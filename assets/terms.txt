@@ -1,93 +1,107 @@
-# Términos y condiciones
+# Política de Privacidad de Kacera y Tratamiento de Datos Personales
 
-Los presentes Términos y Condiciones de servicio regulan la relación contractual entre los usuarios (en adelante, “Usuarios”), con KACERA APP (RUC No. 20607102512). El servicio se encuentra dirigido exclusivamente a residentes en la República de Perú. Los Usuarios se encontrarán sujetos a los Términos y Condiciones Generales respectivos, junto con todas las demás políticas y principios que rigen KACERA APP y que son incorporados al presente por referencia.
- 
-La Aplicación  es gratuita y solo está condicionado a la aceptación y cumplimiento de estos Términos y Condiciones de Uso. El ingreso a, o registro otorga a la persona el carácter de usuario (en adelante “Usuario”), e implica una aceptación total e incondicional a las cláusulas, condiciones, advertencias y términos de uso que a continuación se indican. KACERA se reserva el derecho de modificar y actualizar unilateralmente estos Términos y Condiciones de Uso. Estas modificaciones y actualizaciones estarán publicadas en la web. KACERA APP DESTINE. Los Términos y Condiciones que rigen son los últimos publicados en el Sitio, por lo que el Usuario tiene la responsabilidad de estar al tanto de estas modificaciones y actualizaciones.
-Esta aceptación se entenderá otorgada desde el momento en que el Usuario usa y/o se registra en el Sitio. Si el Usuario no está de acuerdo con estos Términos y Condiciones de Uso debe abstenerse de ingresar, utilizar y/o registrarse en este Sitio. Por tanto, previo al ingreso, utilización y/o registro del Sitio, el Usuario debe leer atentamente los Términos y Condiciones de Uso vigentes para el Sitio. El desconocimiento del Usuario de estos Términos y Condiciones de Uso no implicará la no aplicación de las disposiciones y cláusulas contenidas en los mismos.
- 
-KACERA APP es el titular del banco de datos personales. La información recibida será manejada en forma absolutamente confidencial y conforme lo dispone la legislación vigente en el Perú.
-El usuario podrá ejercer los derechos de revocación reconocidos en la Ley 29733 – Ley de Protección de Datos Personales, frente a KACERA APP, si el usuario no desea recibir publicidad, promociones, invitaciones a actividades y encuestas debe enviar su solicitud a KACERA APP a través de los canales habilitados para el fin.
- 
-ES REQUISITO PARA COMPRAR A TRAVÉS DEL APP DE KACERA APP LA ACEPTACIÓN DE LOS TÉRMINOS Y CONDICIONES DE VENTAS DESCRITOS. EN ESE SENTIDO, CUALQUIER PERSONA QUE REALICE UNA COMPRA A TRAVÉS DE LA WEB, APP Y TODOS LOS CANALES QUE KACERA APP DESTINE PARA TAL EFECTO, DECLARA Y RECONOCE QUE ACEPTA TODOS LOS TÉRMINOS Y CONDICIONES DESCRITOS A CONTINUACIÓN, ASÍ COMO LOS TÉRMINOS ESPECÍFICOS QUE PUDIERAN EXISTIR PARA DETERMINADOS SERVICIOS. 
- 
-CUALQUIER PERSONA QUE NO ACEPTE O SE ENCUENTRE EN DESACUERDO CON ESTOS TÉRMINOS Y CONDICIONES GENERALES, LOS CUALES TIENEN UN CARÁCTER OBLIGATORIO Y VINCULANTE, DEBERÁ ABSTENERSE DE UTILIZAR EL SITIO Y/O EL APLICATIVO.
- 
-La plataforma de KACERA APP es una herramienta tecnológica que, haciendo uso de internet, facilita la intermediación entre repartidores independientes (en adelante los, “Repartidores Aliados”) y los Usuarios que requieren del servicio de reparto mediante el uso de una plataforma tecnológica y móvil de KACERA APP (en adelante, la “Aplicación”) entendiéndose dicha operación a los efectos de los presentes Términos y Condiciones como el  “Servicio de Reparto”, el cual es ejecutado a través de un acuerdo de servicio, donde el Repartidor Aliado actúa como mandatario  y el Usuario funge como mandante en la presente relación. La Aplicación actúa en todo momento como intermediario entre Repartidores Aliados, Usuarios y Tiendas/Marcas/Restaurantes aliados. Asimismo, usted reconoce que La Aplicación no presta servicios propios de reparto, transporte y logística. Bajo ninguna circunstancia los Repartidores Aliados serán considerados empleados por La Aplicación ni por ninguno de sus afiliados. Los Repartidores Aliados prestan el Servicio por cuenta y riesgo propio y liberan a los Usuarios de cualquier responsabilidad que pudiera surgir durante la prestación del Servicio de Reparto.
- 
-Registro
- 
-El acceso a la Aplicación y Sitio Web es gratuito, salvo en lo relativo al costo de la conexión a través de la red de telecomunicaciones suministrada por el proveedor de acceso contratado por el Usuario, que estará a su exclusivo cargo. El Usuario únicamente podrá acceder a la Aplicación a través de los medios autorizados.
-A los efectos de adquirir la condición de Usuario Registrado de La Aplicación, el Usuario deberá completar el formulario de registro, brindar su consentimiento para el tratamiento de sus Datos Personales, aceptar la Política de Privacidad y Tratamiento de Datos Personales, y los presentes Términos y Condiciones.
-Una vez efectuado el Registro, La Aplicación otorgará al Usuario Registrado una cuenta personal para acceder con la contraseña que elija (en adelante, la “Cuenta”).  El Usuario Registrado accederá a su Cuenta mediante el ingreso de su usuario y clave de seguridad personal elegida. La Cuenta es personal, única e intransferible, y está prohibido que un mismo Usuario Registrado posea más de una Cuenta. En caso que La Aplicación detecte distintas Cuentas que contengan datos coincidentes o relacionados, podrá cancelar, suspender o inhabilitarlas. El Usuario será el único responsable por el uso de su Cuenta.
-Los Datos Personales introducidos por el Usuario Registrado deberán ser exactos, actuales y veraces en todo momento. La Aplicación se reserva el derecho de solicitar algún comprobante y/o dato adicional a efectos de corroborar los Datos Personales, y de suspender temporal y/o definitivamente a aquel Usuario Registrado cuyos datos no hayan podido ser confirmados. La Aplicación no se responsabiliza por la certeza de los datos consignados en el Registro. El Usuario Registrado garantiza y responde, en cualquier caso, por la veracidad, exactitud, vigencia y autenticidad de sus Datos Personales. Los Datos Personales que el Usuario Registrado proporcione se integrarán en una base de datos personales de la que es responsable La Aplicación. 
-Cuenta: Usuario y Contraseña
- 
-El Usuario accederá a su cuenta personal (en adelante, la "Cuenta") mediante el ingreso de su Usuario y clave de seguridad personal elegida (en adelante, la "Clave de Seguridad"). 
-El usuario tendrá la posibilidad de cambiar la clave de acceso, para lo cual deberá sujetarse al procedimiento establecido en el sitio web. El usuario asume totalmente la responsabilidad por el mantenimiento de la confidencialidad del nombre de usuario y su clave secreta registrada en este sitio web, la cual le permite efectuar compras, solicitar servicios y obtener información. Dicha clave es de uso personal y su entrega a terceros por parte del usuario, exime de responsabilidad alguna a La Aplicación.
-Información Recibida
- 
-En el curso del uso que el Usuario haga del app y/o de los servicios puestos a su disposición en o a través del sitio web, se le puede pedir que proporcione cierta información personalizada tales como nombre del destinatario y receptor, contacto, dirección electrónica, teléfono, entre otros, que se denomina como “Información Recibida”, la cual es relevante para éxito de la entrega, con el fin de poder brindar al Usuario un servicio de mayor eficacia, calidad y rapidez.
-A menos que se solicite específicamente, La Aplicación no requiere ni desea recibir ninguna información confidencial, secreta o patrimonial, ni otro material del Usuario a través del Sitio Web, por correo electrónico o de cualquier otra manera.
-Uso de datos del Usuario
- 
-La Aplicación se reserva la propiedad única, total y exclusiva de la información recibida por el Usuario; asimismo, se compromete a no compartir los Datos Personales del Usuario con terceros para una finalidad distinta a la que el Usuario ha consentido.
-La Aplicación se reserva el derecho de solicitar algún comprobante y/o dato adicional a efectos de corroborar los Datos Personales, así como de suspender temporal o definitivamente al Usuario cuyos datos no hayan podido ser comprobados y/o confirmados.
-La Aplicación se reserva el derecho de rechazar cualquier solicitud de registro o de cancelar una un registro previamente aceptado, sin que esté obligado a comunicar o exponer las razones de su decisión y sin que ello genere algún derecho a indemnización o resarcimiento.
-Por medio de la aceptación de estos términos y condiciones, el Usuario tiene conocimiento que sus datos y en general, la información que brinde para el uso del app serán utilizados para los fines comerciales de La Aplicación en relación a la comercialización de sus productos y/o a la prestación de sus servicios ya sean éstos contratados por el Usuario, productos y/o servicios existentes o nuevos; y por consiguiente, autoriza y da su consentimiento previo, informado, expreso e inequívoco para que La Aplicación pueda contactarlo a través de llamadas, mensajes de texto, mensajes de correo electrónico, telemarketing y/o cualquiera similar que incluya la venta y/o promoción de los productos y/o servicios de La Aplicación ya sean éstos contratados por el Usuario, productos y/o servicios existentes o nuevos. La presente autorización de ninguna manera significará que La Aplicación esté utilizando métodos comerciales agresivos o engañosos según lo especificado en el artículo 58 inciso e de la Ley N° 29751 – Código de Defensa y Protección al Consumidor; por ende, el Usuario libera a La Aplicación de cualquier reclamo, queja, denuncia, indemnización y/o similar en relación al uso no autorizado de sus datos. Cabe señalar que, el consentimiento del Usuario podrá ser revocado, en cualquier momento y conforme a la normativa que rige la protección de datos personales.
-Asimismo, La Aplicación se compromete a cooperar con la Autoridad Nacional de Protección de Datos Personales o de cualquier otra autoridad administrativa para satisfacer los requerimientos o exigencias de las mismas.
-Órdenes de Productos y/o Servicios
- 
-Si el Usuario ordena un pedido a través de la web, app y todos los canales que La Aplicación defina para la venta de sus productos, por el presente documento representa y garantiza a La Aplicación que tiene dieciocho (18) años de edad o más; asimismo, se obliga a pagar la totalidad de los precios de cualquier orden que haga incluido todos los gastos operativos que la gestión del producto y/o servicio demanden, ya sea con tarjeta de crédito y/o débito válida y concurrente con su orden en línea o por otro medio de pago aceptable por La Aplicación.
-Adicionalmente, el Usuario se obliga a pagar todos los impuestos aplicables a los productos y/o servicios. Si el pago no es recibido por nosotros de parte del emisor de su tarjeta de crédito o débito o de sus agentes, el Usuario se obliga a pagar todas las cantidades debidas al momento de la reclamación por nuestra parte. Algunos productos y/o servicios que el Usuario compre y/o descargue en o a través del sitio web pueden estar sujetos a términos y condiciones adicionales que le serán presentados al momento de dicha compra o descarga.
-Acceso y Restricciones
-Para acceder al servicio de delivery en el sitio web o app se debe ingresar la dirección en donde el Usuario desea que le llegue su pedido. La dirección del Usuario se asociará al local de producción, y le mostrará los productos que la empresa ofrece en ese momento. Al momento de ingresar la dirección y esta misma sea recibida por la central de acopio, el sitio web podría mostrar restricciones para ser aceptadas por el usuario, y continuar el proceso de compra.
-Restricciones:
+**Política de Privacidad de Kacerea y Tratamiento de Datos Personales**
 
-Zona de reparto: La Aplicación valida que la dirección de entrega ingresada por el usuario coincida con la zona de reparto habilitada por La Aplicación. Si la dirección de entrega no se encuentra en la zona de cobertura de La Aplicación, no se podrá brindar el servicio solicitado.
-Método de pago: pago online con tarjeta de crédito o débito (pasarela de pagos), o transferencias bancarias a la cuenta asociada de La Aplicación vía(INTERBANK, BBVA, BCP), YAPE, LUKITA, TUNKI.
-Tienda no disponible: La Aplicación indica al usuario, el horario límite para la toma de pedidos con entrega del mismo día. Se pueden recibir solicitudes luego del horario límite y ser programados para el día siguiente o fecha a solicitud del usuario.
-Horario de entrega: el rango horario de entrega del pedido será indicado por La Aplicación a través del canal de venta disponible y puede ser fijado por el cliente al momento de registrar su pedido. El horario de entrega o recojo puede variar según disponibilidad de las tiendas/ marcas o restaurantes afiliados.
-En caso de que la entrega del pedido exceda por más de 60 minutos de lo programado o no se realice la entrega por motivos de fuerza mayor o agentes externos (accidentes de tránsito del servicio de delivery, desastres naturales, sismos u otros similares) la empresa se exime de responsabilidad por incumplimiento del servicio; sin embargo, el usuario puede reprogramar su pedido para otra fecha sin costo adicional o solicitar la devolución de su dinero.
-Cualquier retraso mayor a 30 minutos, será notificado al usuario por el equipo de soporte de La Aplicación.
-Mayoría de edad: El usuario declara que es mayor de edad y asume responsabilidad sobre los pedidos que realice. En caso que no sea mayor de edad la responsabilidad recaerá en sus padres o tutores.
-Reprogramación de pedido: el usuario es responsable de la hora solicitada de entrega del pedido. Sin embargo, puede solicitar la reprogramación (fecha y hora) del pedido como máximo 2 horas antes de la hora programada previamente (antes de la preparación del producto a entregar). No se permite la reprogramación del mismo pedido por más de 1 vez. Si el usuario solicita la reprogramación en menos de 2 horas a lo programado, es responsable del pago adicional en caso el delivery asignado haya hecho un recorrido de kilometraje y/o el restaurante, marca o tienda aliada haya iniciado la preparación del pedido.
- 
-Horarios de Atención
-El horario de atención de La Aplicación es de 24 horas para realizar compra productos; sin embargo el horario de preparación y despacho de los pedidos dependerá del horario de atención de cada tienda, marca o restaurante.
-El horario de atención al cliente vía telefónica y whatsapp será de 9:00 am a 9:00 pm de lunes a domingo. Excepto en las fechas que la empresa comunique a través del sitio web los días que no se van a laborar.
-Medios de Pago
-El pago se realizará previo al comienzo del ciclo de entrega del producto. (PAGO WEB)
-En caso de pagar a través de la página web el Usuario deberá ingresar la información de la tarjeta requerida por la página, el no ingresar correctamente la información de la tarjeta impedirá culminar la transacción y el pedido, queda en claro que la página web de La Aplicación es un sitio seguro con los certificados de seguridad vigentes de la pasarela de pagos.
-En el caso de pago de a través de transferencia bancaria, yape, tuki o lukita se debe enviar un screenshot a través de los canales que La Aplicación defina conveniente para validar la operación. 
-El sitio web y el app de La Aplicación no almacena información sobre las tarjetas.
-Despacho de los productos
- 
-Los productos adquiridos a través del canal de venta habilitado se sujetarán a la disponibilidad de los restaurantes, marcas o tiendas aliadas cercanas a la dirección de entrega indicada por el usuario. La información del lugar de envío es de exclusiva responsabilidad del usuario. Se informará oportunamente sobre alguna variación en los plazos de entrega elegidos por el usuario debido a eventualidades operativas.
+De conformidad con lo establecido en la Ley N° 29733, Ley de Protección de Datos Personales y el Decreto Supremo N° 003-2013-JUS, Reglamento de la Ley de Protección de Datos Personales, KACERA S.A. con Registro Único de Contribuyentes (&quot;RUC&quot;) N° XXXXXXXXXXX, con domicilio en Av. José Pardo N° 434, Piso 16, Miraflores, Lima, Perú (en adelante, &quot;KACERA&quot;), le informa mediante esta Política de Privacidad (en adelante, la &quot;Política&quot;), las condiciones del tratamiento de su información.
 
-Modificación de pedidos.
+Como parte normal de nuestras actividades, recopilamos información sobre nuestros Usuarios consumidores, Repartidores, Tiendas aliadas y visitantes al sitio web (en adelante, el &quot;Titular&quot;), que acceden y utilizan nuestras aplicaciones Kacera APP y Kacera Delivery (en adelante, de manera conjunta, las  **&quot;** Aplicaciones&quot;) y sitio web [www.kacera.pe](http://www.kacera.pe/) (en adelante, el &quot;Sitio Web&quot;) **. **
 
-La modificación del  producto o los productos que el usuario desea consumir será indicada a través del canal de venta habilitado y se debe realizar, como máximo, hasta 3 horas antes de la hora programada de entrega (previo a la preparación del pedido por parte del restaurante, marca o tienda  aliada y/o recorrido de kilometraje por parte del repartidor asignado).
+El Titular consiente de manera libre, expresa, previa e informada que KACERA trate los datos personales que usted nos proporcione y los almacene en un banco de datos de su titularidad para los fines establecidos en esta Política.
 
-Promociones y Cash Virtual
+La información del Titular se almacenará en uno de los siguientes bancos de datos personales, por el plazo señalado, según corresponda:
 
-La Aplicación se reserva el derecho de aplicar o no cualquier promoción, cash virtual y sistema de puntos canjeables otorgado a cualquiera de nuestros clientes. Adicionalmente, ninguna de nuestras promociones es acumulable entre sí, ni se podrá utilizar en conjunto con cash virtual y/o sistema de puntos. Las promociones se aplican a los planes mensuales.
-Libro de reclamaciones
+1) Si usted se registra como Usuario Consumidor en nuestras Aplicaciones y Sitio Web, el banco de datos personales será el &quot;Banco de datos de usuarios consumidores&quot; y será almacenado durante un plazo de 10 años adicionales a la relación contractual entre Kacera y el Usuario Consumidor.
 
-Ponemos a disposición de nuestros Usuarios el Libro de Reclamaciones virtual que figura en nuestra página web.  Se enviará una respuesta de atención de reclamos en un plazo no mayor de 3 días hábiles.
-Política de delivery
+2) Si usted se registra como Usuario Repartidor en nuestras Aplicaciones y Sitio Web, el banco de datos personales será el &quot;Banco de datos de repartidores independientes&quot; y será almacenado durante un plazo de 10 años adicionales a la relación contractual entre Kacera y el Repartidor.
 
-El servicio de delivery se brinda respecto de aquellos pedidos efectuados por los Clientes a través del canal de venta habilitado.
-Zona de reparto limitada e informada en la pre-venta y en la confirmación del pedido realizado a través del canal de venta habilitado.
-El usuario podrá elegir un horario de entrega, en el cual La Aplicación enviará la confirmación a través del canal de venta habilitado.
-La Aplicación notificará al Cliente cuando el delivery haya recogido el producto solicitado y se encuentre en camino a la dirección de entrega. Además, el delivery será encargado de contactar al Cliente cuando se encuentre en la dirección de entrega. Para la conformidad de la entrega, el delivery realizará la captura de una foto del Cliente con el pedido entregado (en forma de constancia de entrega) según protocolo definido por La Aplicación.
-El delivery es responsable de esperar como máximo 10 minutos luego que notifique al Cliente que ya se encuentra en la dirección de entrega. Posterior al tiempo límite y/o sujeto a la disponibilidad del delivery, en caso el delivery se haya retirado de la dirección de entrega, el Cliente podrá solicitar la entrega del producto siendo responsable del precio adicional por kilometraje recorrido del delivery.
+3) Si usted se registra como Tienda Aliada en nuestras Aplicaciones y Sitio Web, el banco de datos personales será el &quot;Banco de datos de tiendas aliadas&quot; y será almacenado durante un plazo de 10 años adicionales a la relación contractual entre Kacera y la Tienda Aliada.
 
-Cambios y Devoluciones:
- 
-En caso de que el pedido haya llegado errado, se realizará el cambio como máximo 48 horas después de reportado la incidencia sin ningún costo adicional.
-En caso de solicitar una devolución del pedido entregado, se entregará crédito para ser utilizado en la plataforma de Kacera. Tener las siguientes consideraciones para la devolución:
+4) Si usted envía un reclamo vía el Libro de Reclamaciones Virtual en nuestro Sitio Web, el banco de datos personales será el &quot;Banco de libro de reclamaciones&quot; y será almacenado durante un plazo de 2 años adicionales a la relación contractual entre Kacera y el Usuario Consumidor.
 
-Solo se podrá realizar una devolución de un producto que se encuentre vencido, en mal estado, roto o porque el cliente no lo pidió.
-La devolución del producto y entrega del crédito se realizará en un plazo no mayor a 5 días hábiles.
-Se aceptarán los cambios y devoluciones siempre y cuando se haya notificado hasta después de las 12:00 horas de haber recibido el producto.
-     
+**PRIMERA: Derechos de acceso, rectificación, cancelación y oposición de la Información Personal**
+
+1.1. El Titular puede ejercer los derechos de acceso, rectificación, cancelación u oposición, establecidos en la normativa de protección de datos personales.
+
+De considerar el Titular que no ha sido atendido en el ejercicio de sus derechos, puede presentar un reclamo ante la Dirección de Protección de Datos Personales del Ministerio de Justicia y Derechos Humanos.
+
+1.2 En caso de que el Titular se registre como Usuario consumidor, Usuario Repartidor o Tienda Aliada, podrá revisar y cambiar la información que ha enviado a KACERA, por motivos debidamente justificados y legítimos, incluyendo: el usuario y dirección de correo electrónico, domicilio, ciudad, código postal, número de teléfono, clave, etc.
+
+1.3. KACERA podrá modificar esta Política. En dicho caso, KACERA notificará al Titular publicando una versión actualizada de la Política en esta página y mediante el envío de un e-mail o informándolo en el Sitio Web o Aplicaciones, a efectos de mantener actualizado al Titular. El Titular acepta que, si después de dicha notificación, mantiene su registro en el Sitio Web y Aplicaciones, es porque está de acuerdo con las mismas. Si no está de acuerdo, el Titular deberá solicitar darse de baja a KACERA, en cuyo caso, KACERA no tratará más su información, sino únicamente para el cumplimiento de la ley aplicable.
+
+**SEGUNDA: La Información Personal que recopilamos**
+
+2.1. A fin de acceder como Usuario Consumidor a la aplicación Kacera, los Titulares deben registrarse, ingresando ciertos datos personales completos y exactos. KACERA podrá solicitar, recabar y almacenar la siguiente información personal: nombre y apellido, número de documento o identificación válida, información física de contacto (como número de teléfono, domicilio, tipo de domicilio, dirección de e-mail, etc.), historial de compras, preferencias de consumo.
+
+2.2. Al fin de acceder como Usuario Repartidor a la aplicación, los Titulares deben registrarse, suministrando ciertos datos personales completos y exactos. KACERA podrá solicitar, recabar y almacenar la siguiente información personal: nombre y apellido, género, número de documento o identificación válida, fecha de nacimiento, medio de transporte, información física de contacto (como número de teléfono domicilio, dirección de e-mail, etc.), fecha de registro, Id.
+
+2.3. Al fin de acceder como Tienda Aliada a la aplicación, los Titulares deben registrarse, suministrando ciertos datos personales completos y exactos. KACERA podrá solicitar, recabar y almacenar la siguiente información personal: nombre y apellido, género, número de documento o identificación válida, fecha de nacimiento, nombre de Tienda, RUC de Tienda, información física de contacto (como número de teléfono domicilio, dirección de e-mail, etc.), fecha de registro, Id, tipo de despacho (programado / express).
+
+2.4. A fin de Interponer un Reclamo en el Libro de Reclamaciones en el Sitio Web, KACERA recopilará datos de usted tales como nombres y apellidos, documento de identidad, domicilio, teléfono, edad, reclamo, correo electrónico e información de compra.
+
+En adelante, la &quot;Información Personal&quot;.
+
+**TERCERA: Finalidad y Uso de la Información Personal**
+
+3.1. Su información será tratada de acuerdo con las siguientes finalidades y usos, según corresponda:
+
+- Si usted es un Usuario Repartidor
+
+La Información Personal será tratada para ejecutar la relación contractual entre KACERA y el Repartidor y para brindar los servicios a los Usuarios Consumidores a través de las Aplicaciones y el Sitio Web, de acuerdo con los términos y condiciones.
+
+KACERA podrá compartir los datos de los Repartidores a los Usuarios y las Tiendas Aliadas (personas naturales o personas jurídicas que exhiben sus productos y/o servicios a través de las Aplicaciones), para que estos se comuniquen ante cualquier eventualidad que surja durante la prestación de los servicios de reparto.
+
+Si usted es Repartidor, para que pueda aceptar y tramitar las órdenes más cercanas a su ubicación, la Aplicación recogerá datos de su localización, aun cuando la Aplicación se encuentre cerrada o no esté en uso.
+
+La aplicación recoge y almacena el número telefónico del usuario el cual es almacenado en nuestra base de datos usando métodos de encriptación para garantizar la protección de la información personal del usuario. La data recolectada se utiliza para identificar posibles comportamientos atípicos dentro de la aplicación y no es compartida ni transferida a terceros.
+
+- Si usted es un usuario Consumidor
+
+La Información Personal será tratada para ejecutar la relación contractual entre KACERA y el Usuario Consumidor a través de las Aplicaciones y el Sitio Web, de acuerdo con los términos y condiciones.
+
+La Información Personal, solo podrá ser utilizada por los Repartidores en el marco de la prestación del servicio de reparto y no deberá ser empleada para actividades no relacionadas con y autorizadas por KACERA. Su información podrá ser conocida por los Repartidores y las Tiendas Aliadas.
+
+Su información también podrá ser utilizada, de manera anonimizada, para realizar estudios internos sobre los intereses, comportamientos y demografía del Titular para comprender mejor sus necesidades e intereses y ofrecer mejores servicios o proveerles información relacionada.
+
+- Si usted es una Tienda Aliada
+
+La Información Personal será tratada para ejecutar la relación contractual entre KACERA y la Tienda Aliada través de las Aplicaciones y el Sitio Web, de acuerdo con los términos y condiciones.
+
+La Información Personal, solo podrá ser utilizada por los Usuarios Consumidores en el marco de la prestación del producto que esté comercializando. Su información podrá ser conocida por los Repartidores y las Usuarios Consumidores.
+
+- Si usted utiliza nuestros Libros de Reclamaciones de Virtual
+
+Su información será tratada únicamente para atender y hacer seguimiento del referido reclamo.
+
+- Consentimiento para fines promocionales
+
+Solo y exclusivamente en el caso que usted haya aceptado expresa y voluntariamente, mediante las Aplicaciones o el Sitio Web, recibir información sobre novedades, descuentos y recomendaciones sobre los productos y servicios de KACERA, usted autoriza que KACERA pueda enviar información a través de diferentes medios, tales como  mensajes al Titular por e-mail, sms (mensaje de texto) y/o a cualquier otro tipo de dispositivos móviles o a través de plataformas de mensajería instantánea (incluyendo Whatsapp), sobre publicidad o promociones de interés para el Titular.
+
+Sin perjuicio de ello, el Titular puede en cualquier momento solicitar que lo excluyan de las listas para el envío de información promocional o publicitaria, mediante la sección de Soporte disponible a través de la plataforma o ejerciendo sus derechos ARCO.
+
+Asimismo, si el Titular decide no aceptar recibir estas comunicaciones, al momento de registrarse, desmarcando la casilla correspondiente, puede otorgar su autorización en cualquier momento posteriormente, a través de los centros de soporte correspondientes.
+
+**CUARTA: Confidencialidad de la Información Personal**
+
+4.1. KACERA no venderá, intercambiará, alquilará o compartirá la Información Personal del Titular excepto en las formas establecidas en esta Política.
+
+**QUINTA: Clave Personal**
+
+5.1. Para acceder a los servicios reservados, el Titular dispondrá de una clave personal. Con ella podrá contratar y calificar los servicios que prestan por terceros a través de las Aplicaciones o Sitio Web. El Titular deberá mantener esta clave bajo absoluta confidencialidad y, en ningún caso, deberá revelarla o compartirla con otras personas.
+
+5.2. El Titular será responsable de todos los actos que tengan lugar mediante el uso de su nombre de Titular y clave, lo que incluye asumir la responsabilidad por los daños que puedan sufrir otros Titulares mediante su cuenta. Si, por cualquier razón, un Titular creyera que alguien puede conocer su clave, deberá modificarla ingresando a la opción de modificación dispuesta para tal fin en la plataforma de KACERA.
+
+**SEXTA: Menores de Edad**
+
+6.1. Debes tener más de 18 años para registrarte en la APP o el Sitio como usuario consumidor. Para registrarte como usuario Repartidor, deberás tener más de 18 años. Está, por tanto, restringido el registro en la App o el Sitio que no cumpla con los límites mínimos de edad.
+
+6.2. Ante una sospecha razonable de que un Titular de los datos de la Aplicación se ha registrado incumpliendo los límites mínimos de edad o que ha falseado los datos que se requieren para su acceso, KACERA podrá denegar el acceso a sus servicios.
+
+**SÉPTIMA: Requerimientos Legales**
+
+7.1. KACERA cooperará con las autoridades competentes y con otros terceros para garantizar el cumplimiento de las leyes. ** KACERA podrá revelar la Información Personal del Titular sin su consentimiento únicamente cuando esté permitido por ley, requerido por mandato judicial, o en casos de prevención de lavado de activos o financiamiento del terrorismo o el caso que dicho Titular participa de actividades ilegales.**  En tales situaciones, KACERA colaborará con las autoridades competentes con el fin de salvaguardar la integridad y la seguridad de la comunidad y la de sus Titulares de los datos.
+
+**OCTAVA: Seguridad y Almacenamiento de la Información Personal**
+
+8.1. En el tratamiento de la Información Personal, KACERA garantiza que ha adoptado medidas técnicas para garantizar la seguridad de sus datos personales. Sin perjuicio de lo expuesto, considerando que internet es un sistema abierto, de acceso público, KACERA no puede garantizar que terceros no autorizados no puedan eventualmente superar las medidas de seguridad y utilizar la Información Personal en forma indebida, por tratarse de eventos imprevisibles.
+
+8.2. El Titular conoce y acepta expresamente que KACERA, a su exclusivo criterio, recabe, almacene y eventualmente monitoree el intercambio de mensajes y correos electrónicos entre el Usuario Consumidor, Usuario Repartidor y Tienda Aliada, efectuado dentro de las Aplicaciones de KACERA, con el único objetivo de contribuir a la seguridad de las relaciones y comunicaciones que se desarrollan a través de éstas.
