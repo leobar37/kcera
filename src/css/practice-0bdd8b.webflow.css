@@ -282,7 +282,7 @@
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  background-color: #000;
+  background-color: #fff;
 }
 
 .container-2 {
@@ -334,7 +334,7 @@
   margin-bottom: 0px;
   padding-right: 0px;
   font-family: 'artico bold', sans-serif;
-  color: #fff;
+  color: rgb(0, 0, 0);
   font-size: 40px;
   line-height: 64px;
   font-weight: 700;
@@ -1021,7 +1021,7 @@
 }
 
 .text-span-4 {
-  color: #1ac91e;
+  color: #ffefef;
 }
 
 .button-2 {
@@ -1309,12 +1309,13 @@
 
 .text-span-7 {
   font-family: Artico, sans-serif;
-  font-size: 40px;
+  font-size: 48px;
   font-weight: 300;
 }
 
 .text-span-8 {
   text-align: center;
+  color: #1ac91e;
 }
 
 .heading-18 {
@@ -1663,7 +1664,8 @@
 }
 
 .text-span-16 {
-  color: #1ac91e;
+  color: #000000;
+  font-size: 48px;
 }
 
 .text-span-17 {
@@ -2019,7 +2021,7 @@
   }
 
   .heading-2 {
-    width: 80vw;
+    width: 50vw;
     font-size: 35px;
   }
 
@@ -2795,13 +2797,14 @@
   }
 
   .text-span-7 {
-    font-size: 30px;
-    line-height: 54px;
+    font-size: 48px;
+    line-height: 77px;
+    color: #000000;
   }
 
   .text-span-8 {
-    font-size: 25px;
-    line-height: 54px;
+    font-size: 48px;
+    line-height: 77px;
   }
 
   .heading-19 {
