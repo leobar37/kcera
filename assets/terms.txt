@@ -1,22 +1,139 @@
-# Política de Privacidad de Kacera y Tratamiento de Datos Personales
+**Términos y Condiciones - Clientes**
 
-**Política de Privacidad de Kacerea y Tratamiento de Datos Personales**
+**KACERA APP** (RUC No. 20607102512). con domicilio en Av. Javier prado 6804, La Molina, Lima, Perú El servicio se encuentra dirigido exclusivamente a residentes en la República de Perú. Los Usuarios se encontrarán sujetos a los Términos y Condiciones Generales respectivos, junto con todas las demás políticas y principios que rigen **KACERA APP en adelante EL APLICATIVO** y que son incorporados al presente por referencia.
 
-De conformidad con lo establecido en la Ley N° 29733, Ley de Protección de Datos Personales y el Decreto Supremo N° 003-2013-JUS, Reglamento de la Ley de Protección de Datos Personales, KACERA S.A. con Registro Único de Contribuyentes (&quot;RUC&quot;) N° XXXXXXXXXXX, con domicilio en Av. José Pardo N° 434, Piso 16, Miraflores, Lima, Perú (en adelante, &quot;KACERA&quot;), le informa mediante esta Política de Privacidad (en adelante, la &quot;Política&quot;), las condiciones del tratamiento de su información.
+Los presentes Términos y Condiciones de servicio regulan la relación contractual entre los usuarios (en adelante, &quot;Usuarios&quot;), con EL APLICATIVO.
 
-Como parte normal de nuestras actividades, recopilamos información sobre nuestros Usuarios consumidores, Repartidores, Tiendas aliadas y visitantes al sitio web (en adelante, el &quot;Titular&quot;), que acceden y utilizan nuestras aplicaciones Kacera APP y Kacera Delivery (en adelante, de manera conjunta, las  **&quot;** Aplicaciones&quot;) y sitio web [www.kacera.pe](http://www.kacera.pe/) (en adelante, el &quot;Sitio Web&quot;) **. **
+La Aplicación es gratuita y solo está condicionado a la aceptación y cumplimiento de estos Términos y Condiciones de Uso. El ingreso al Aplicativo, o registro otorga al Usuario, e implica una aceptación total e incondicional a las cláusulas, condiciones, advertencias y términos de uso que a continuación se indican. El Aplicativo se reserva el derecho de modificar y actualizar unilateralmente estos Términos y Condiciones de Uso. Estas modificaciones y actualizaciones estarán publicadas en la web que KACERA APP destine. Los Términos y Condiciones que rigen son los últimos publicados en el Sitio Web o Aplicativo Móvil, por lo que el Usuario tiene la responsabilidad de estar al tanto de estas modificaciones y actualizaciones.
+
+Esta aceptación se entenderá otorgada desde el momento en que el Usuario usa y/o se registra en el Sitio. Si el Usuario no está de acuerdo con estos Términos y Condiciones de Uso debe abstenerse de ingresar, utilizar y/o registrarse en este Sitio. Por tanto, previo al ingreso, utilización y/o registro del Sitio, el Usuario debe leer atentamente los Términos y Condiciones de Uso vigentes para el Sitio. El desconocimiento del Usuario de estos Términos y Condiciones de Uso no implicará la no aplicación de las disposiciones y cláusulas contenidas en los mismos.
+
+La presencia de links en este Sitio, salvo manifestación expresa en contrario, tiene una finalidad meramente informativa y en ningún caso supone sugerencia, invitación o recomendación sobre los mismos. Estos enlaces no representan ningún tipo de relación entre LA APLICACION y los particulares o empresas titulares de los sitios web a los que puede accederse mediante estos links. LA APLICACION se reserva el derecho de retirar de modo unilateral y en cualquier momento los links que aparecen en este Sitio.
+
+EN ESTE SENTIDOCUALQUIER PERSONA QUE REALICE UNA COMPRA A TRAVÉS DE LA WEB, APP Y TODOS LOS CANALES QUE **KACERA APP** DESTINE, PARA TAL DECLARA Y RECONOCE QUE ACEPTA TODOS LOS TÉRMINOS Y CONDICIONES DESCRITOS, ASÍ COMO LOS TÉRMINOS ESPECÍFICOS QUE PUDIERAN EXISTIR PARA DETERMINADOS SERVICIOS.
+
+CUALQUIER PERSONA QUE NO ACEPTE O SE ENCUENTRE EN DESACUERDO CON ESTOS TÉRMINOS Y CONDICIONES GENERALES, LOS CUALES TIENEN UN CARÁCTER OBLIGATORIO Y VINCULANTE, DEBERÁ ABSTENERSE DE UTILIZAR EL SITIO Y/O EL APLICATIVO.
+
+Así, según lo señalado en el párrafo anterior los Usuarios del Sitio se obligan a respetar los Términos y Condiciones de Uso del mismo y se comprometen a que las publicaciones de contenidos, datos, informaciones u opiniones que hagan en el Sitio o redes sociales se basen en el respeto mutuo, el orden público y las buenas costumbres, de manera que no causen daño a KACERA APP ni a otros ALIADOS, y que no obstaculicen la buena convivencia entre éstos. Por ello los contenidos entregados por los Usuarios deben ser objetivos y veraces, dejando de lado cualquier propuesta o mención a temas que pudiesen instar al odio, confusión, división de sus miembros y/o cualquier situación negativa para la comunidad para lo cual se someterán a lo establecido por ley.
+
+La plataforma de **KACERA APP** es una herramienta tecnológica que, haciendo uso de internet, facilita la intermediación entre repartidores independientes (en adelante los, &quot;Repartidores Aliados&quot;) y los Usuarios que requieren del servicio de reparto mediante el uso de una plataforma tecnológica y móvil de **KACERA APP** (en adelante, la &quot;Aplicación&quot;) entendiéndose dicha operación a los efectos de los presentes Términos y Condiciones como el  &quot;Servicio de Reparto&quot;, el cual es ejecutado a través de un acuerdo de servicio, donde el Repartidor Aliado actúa como mandatario  y el Usuario funge como mandante en la presente relación. **La Aplicación** actúa en todo momento como intermediario entre Repartidores Aliados, Usuarios y Tiendas/Marcas/Restaurantes aliados. Asimismo, usted reconoce que **La Aplicación** no presta servicios propios de reparto, transporte y logística. En ninguna circunstancia los Repartidores Aliados serán considerados empleados por **La Aplicación** ni por ninguno de sus afiliados. Los Repartidores Aliados prestan el Servicio por cuenta y riesgo propio y liberan a los Usuarios de cualquier responsabilidad que pudiera surgir durante la prestación del Servicio de Reparto.
+
+1. Registro
+
+El acceso a la Aplicación y Sitio Web es gratuito, salvo en lo relativo al costo de la conexión a través de la red de telecomunicaciones suministrada por el proveedor de acceso contratado por el Usuario, que estará a su exclusivo cargo. El Usuario únicamente podrá acceder a la Aplicación a través de los medios autorizados.
+
+El acceso y navegación en este Sitio supone aceptar y conocer las advertencias legales, condiciones y términos de uso contenidas en el mismo. LA APLICACION realiza los máximos esfuerzos para que el acceso y la navegación en este Sitio se realicen en las mejores condiciones, evitando perjuicios de cualquier tipo que pudiesen ocasionarse durante los mismos. Además, no se responsabiliza o garantiza que el contenido o software desde el cual accede el usuario esté libre de error o no cause daños.
+
+A los efectos de adquirir la condición de Usuario Registrado de **La Aplicación** , el Usuario deberá completar el formulario de registro, brindar su consentimiento a LA POLÍTICA DE PRIVACIDAD Y TRATAMIENTO DE DATOS PERSONALES, y los presentes TÉRMINOS Y CONDICIONES.
+
+Una vez efectuado el Registro, **La Aplicación** otorgará al Usuario Registrado una cuenta personal para acceder con la contraseña que elija (en adelante, la **&quot;Cuenta&quot;** ).  El Usuario Registrado accederá a su Cuenta mediante el ingreso de su usuario y clave de seguridad personal elegida. La Cuenta es personal, única e intransferible, y está prohibido que un mismo Usuario Registrado posea más de una Cuenta. En caso de que **La Aplicación** detecte distintas Cuentas que contengan datos coincidentes o relacionados, podrá cancelar, suspender o inhabilitarlas. El Usuario será el único responsable por el uso de su Cuenta.
+
+Los Datos Personales introducidos por el Usuario Registrado deberán ser exactos, actuales y veraces en todo momento. **La Aplicación** se reserva el derecho de solicitar algún comprobante y/o dato adicional a efectos de corroborar los Datos Personales, y de suspender temporal y/o definitivamente a aquel Usuario Registrado cuyos datos no hayan podido ser confirmados. **La Aplicación** no se responsabiliza por la certeza de los datos consignados en el Registro. El Usuario Registrado garantiza y responde, en cualquier caso, por la veracidad, exactitud, vigencia y autenticidad de sus Datos Personales. Los Datos Personales que el Usuario Registrado proporcione se integrarán en una base de datos personales de la que es responsable **La Aplicación**.
+
+1. Cuenta: Usuario y Contraseña
+
+El Usuario accederá a su cuenta personal (en adelante, la &quot;Cuenta&quot;) mediante el ingreso de su Usuario y clave de seguridad personal elegida (en adelante, la &quot;Clave de Seguridad&quot;).
+
+El usuario tendrá la posibilidad de cambiar la clave de acceso, para lo cual deberá sujetarse al procedimiento establecido en el sitio web. El usuario asume totalmente la responsabilidad por el mantenimiento de la confidencialidad del nombre de usuario y su clave secreta registrada en este sitio web, la cual le permite efectuar compras, solicitar servicios y obtener información. Dicha clave es de uso personal y su entrega a terceros por parte del usuario, exime de responsabilidad alguna a **La Aplicación**.
+
+1. Información Recibida
+
+En el curso del uso que el Usuario haga de **La Aplicación** y/o de los servicios puestos a su disposición en o a través del sitio web, se le puede pedir que proporcione cierta información personalizada tales como nombre del destinatario y receptor, contacto, dirección electrónica, teléfono, entre otros, que se denomina como &quot;Información Recibida&quot;, la cual es relevante para éxito de la entrega, con el fin de poder brindar al Usuario un servicio de mayor eficacia, calidad y rapidez.
+
+A menos que se solicite específicamente, **La Aplicación** no requiere ni desea recibir ninguna información confidencial, secreta o patrimonial, ni otro material del Usuario a través del Sitio Web, por correo electrónico o de cualquier otra manera.
+
+1. Uso de datos del Usuario
+
+Por medio de la aceptación de estos términos y condiciones, el Usuario tiene conocimiento que sus datos y en general, la información que brinde para el uso de **La Aplicación** serán utilizados para los fines comerciales de **La Aplicación** en relación a la comercialización de sus productos y/o a la prestación de sus servicios ya sean éstos contratados por el Usuario, productos y/o servicios existentes o nuevos; y por consiguiente, autoriza y da su consentimiento previo, informado, expreso e inequívoco para que **La Aplicación** pueda contactarlo a través de llamadas, mensajes de texto, mensajes de correo electrónico, telemarketing y/o cualquiera similar que incluya la venta y/o promoción de los productos y/o servicios de **La Aplicación** , así como se indica en la POLÍTICA DE PRIVACIDAD Y TRATAMIENTO DE DATOS PERSONALES. La presente autorización de ninguna manera significará que **La Aplicación** esté utilizando métodos comerciales agresivos o engañosos según lo especificado en el artículo 58 inciso e de la Ley N° 29751 – Código de Defensa y Protección al Consumidor; por ende, el Usuario libera a **La Aplicación** de cualquier reclamo, queja, denuncia, indemnización y/o similar en relación con el uso no autorizado de sus datos.
+
+1. Órdenes de Productos y/o Servicios
+
+Si el Usuario ordena un pedido a través de la web, app y todos los canales que **La Aplicación** defina para la venta de sus productos, por el presente documento representa y garantiza a **La Aplicación** que **El Usuario** se obliga a pagar la totalidad de los precios de cualquier orden que haga incluido asumiendo todos los gastos operativos que la gestión del producto y/o servicio demanden, ya sea con tarjeta de crédito y/o débito válida y concurrente con su orden en línea o por otro medio de pago aceptable por **La Aplicación**.
+
+**La Aplicación** se reserva la facultad y el derecho de actualizar, modificar o eliminar, en parte o en todo, y sin expresión de causa, cualquier contenido o información publicada en este Sitio según lo estime conveniente, pudiendo hacer uso de tal facultad en cualquier momento y sin previo aviso. Este derecho abarca los contenidos referidos a disponibilidad o stock de productos o servicios, especificaciones, precio, o en cuanto a la configuración y funcionalidades del Sitio o de la información de actividades promocionales.
+
+Adicionalmente, el Usuario se obliga a pagar todos los impuestos aplicables a los productos y/o servicios. Si el pago no es recibido por **La Aplicación** de parte del emisor de su tarjeta de crédito o débito o de sus agentes, el Usuario se obliga a pagar todas las cantidades debidas al momento de la reclamación por nuestra parte. Algunos productos y/o servicios que el Usuario compre y/o descargue en o a través del sitio web pueden estar sujetos a términos y condiciones adicionales que le serán presentados al momento de dicha compra o descarga.
+
+1. Acceso y Restricciones
+
+Para acceder al servicio de delivery en el sitio web o app a través de **La Aplicación** se debe ingresar la dirección en donde el Usuario desea que llegue el pedido. La dirección del Usuario se asociará al local de producción, y le mostrará los productos que **La Tienda Aliada** ofrece en ese momento. Al momento de ingresar la dirección y esta misma sea recibida por la central de acopio, el sitio web podría mostrar restricciones para ser aceptadas por el usuario, y continuar el proceso de compra.
+
+Restricciones:
+
+1. Zona de reparto: **La Aplicación** valida que la dirección de entrega ingresada por el usuario coincida con la zona de reparto habilitada por **La Aplicación**. Si la dirección de entrega no se encuentra en la zona de cobertura de **La Aplicación** , no se podrá brindar el servicio solicitado.
+2. Método de pago: pago online con tarjeta de crédito o débito (pasarela de pagos), o transferencias bancarias a la cuenta asociada de **La Aplicación** vía (INTERBANK, BBVA, BCP), YAPE, LUKITA, TUNKI.
+3. Tienda no disponible: **La Aplicación** indica al usuario, el horario límite para la toma de pedidos con entrega del mismo día. Se pueden recibir solicitudes luego del horario límite y ser programados para el día siguiente o fecha a solicitud del usuario.
+4. Horario de entrega: el rango horario de entrega del pedido será indicado por **La Aplicación** a través del canal de venta disponible y puede ser fijado por **El Usuario** al momento de registrar su pedido. El horario de entrega o recojo puede variar según disponibilidad de las tiendas/ marcas o restaurantes afiliados.
+5. En caso de que la entrega del pedido exceda por más de 60 minutos de lo programado o no se realice la entrega por motivos de fuerza mayor o agentes externos (accidentes de tránsito del servicio de delivery, desastres naturales, sismos u otros similares) la empresa se exime de responsabilidad por incumplimiento del servicio; sin embargo, el usuario puede reprogramar su pedido para otra fecha sin costo adicional o solicitar la devolución de su dinero.
+6. Cualquier retraso mayor a 30 minutos, será notificado al usuario por el equipo de soporte de **La Aplicación**.
+7. Reprogramación de pedido: el usuario es responsable de la hora solicitada de entrega del pedido. Sin embargo, puede solicitar la reprogramación (fecha y hora) del pedido como máximo 2 horas antes de la hora programada previamente (antes de la preparación del producto a entregar). No se permite la reprogramación del mismo pedido por más de 1 vez. Si el usuario solicita la reprogramación en menos de 2 horas a lo programado, es responsable del pago adicional en caso el delivery asignado haya hecho un recorrido de kilometraje y/o el restaurante, marca o tienda aliada haya iniciado la preparación del pedido.
+
+1. Horarios de Atención
+
+El horario de atención de **La Aplicación** es de 24 horas para realizar compra productos; sin embargo, el horario de preparación y despacho de los pedidos dependerá del horario de atención de cada tienda, marca o restaurante.
+
+El horario de atención al cliente vía telefónica y whatsapp será de 8:00 am a 8:00 pm de lunes a domingo. Excepto en las fechas / horas que la empresa comunique a través del sitio web los días que no se van a laborar.
+
+1. Medios de Pago
+
+El pago se realizará previo al comienzo del ciclo de entrega del producto. En caso de pagar a través de la página web el Usuario deberá ingresar la información de la tarjeta requerida por la página, el no ingresar correctamente la información de la tarjeta impedirá culminar la transacción y el pedido, queda en claro que la página web de **La Aplicación** es un sitio seguro con los certificados de seguridad vigentes de la pasarela de pagos.
+
+En el caso de pago de a través de **transferencia bancaria, yape, tuki o lukita** se debe enviar un screenshot (captura de pantalla) a través de los canales que **La Aplicación** defina conveniente para validar la operación.
+
+El sitio web y el app de **La Aplicación** no almacena información sobre las tarjetas.
+
+**La Aplicación** se reserva el derecho de solicitar algún comprobante y/o dato adicional a efectos de corroborar los Datos Personales, así como de suspender temporal o definitivamente al Usuario cuyos datos no hayan podido ser comprobados y/o confirmados.
+
+1. Despacho de los productos
+
+Los productos adquiridos a través del canal de venta habilitado se sujetarán a la disponibilidad de los restaurantes, marcas o tiendas aliadas cercanas a la dirección de entrega indicada por el usuario. La información del lugar de envío es de exclusiva responsabilidad del usuario. Se informará oportunamente sobre alguna variación en los plazos de entrega elegidos por el usuario debido a eventualidades operativas.
+
+1. Modificación de pedidos.
+
+La modificación del producto o los productos que el usuario desea consumir será indicada a través del canal de venta habilitado y se debe realizar, como máximo, hasta 3 horas antes de la hora programada de entrega (previo a la preparación del pedido por parte del restaurante, marca o tienda aliada y/o recorrido de kilometraje por parte del repartidor asignado).
+
+1. Promociones y Cash Virtual
+
+**La Aplicación** se reserva el derecho de aplicar o no cualquier promoción, cash virtual y sistema de puntos canjeables otorgado a cualquiera de nuestros clientes. Adicionalmente, ninguna de nuestras promociones es acumulable entre sí, ni se podrá utilizar en conjunto con cash virtual y/o sistema de puntos. Las promociones aplican a los planes mensuales.
+
+1. Libro de reclamaciones
+
+Ponemos a disposición de nuestros Usuarios el Libro de Reclamaciones virtual que figura en nuestra página web.  Se enviará una respuesta de atención de reclamos en un plazo no mayor de 3 días hábiles.
+
+1. Política de delivery
+
+1. El servicio de delivery se brinda respecto de aquellos pedidos efectuados por los Clientes a través del canal de venta habilitado.
+2. Zona de reparto limitada e informada en la pre-venta y en la confirmación del pedido realizado a través del canal de venta habilitado.
+3. El usuario podrá elegir un horario de entrega, en el cual **La Aplicación** enviará la confirmación a través del canal de venta habilitado.
+4. **La Aplicación** notificará al Cliente cuando el delivery haya recogido el producto solicitado y se encuentre en camino a la dirección de entrega. Además, el delivery será encargado de contactar al Cliente cuando se encuentre en la dirección de entrega. Para la conformidad de la entrega, el delivery realizará la captura de una foto del Cliente con el pedido entregado (en forma de constancia de entrega) según protocolo definido por **La Aplicación**.
+5. El delivery es responsable de esperar como máximo 10 minutos luego que notifique al Cliente que ya se encuentra en la dirección de entrega. Posterior al tiempo límite y/o sujeto a la disponibilidad del delivery, en caso el delivery se haya retirado de la dirección de entrega, el Cliente podrá solicitar la entrega del producto siendo responsable del precio adicional por kilometraje recorrido del delivery.
+
+1. Cambios y Devoluciones:
+
+En caso de que el pedido haya llegado errado, se realizará el cambio como máximo 48 horas después de reportado la incidencia sin ningún costo adicional.
+
+En caso de solicitar una devolución del pedido entregado, se entregará crédito para ser utilizado en la plataforma de Kacera. Tener las siguientes consideraciones para la devolución:
+
+- Solo se podrá realizar una devolución de un producto que se encuentre vencido, en mal estado, roto o porque el cliente no lo pidió.
+- La devolución del producto y entrega del crédito se realizará en un plazo no mayor a 5 días hábiles.
+
+**Política de Privacidad y Tratamiento de Datos Personales**
+
+De conformidad con lo establecido en la Ley N° 29733, Ley de Protección de Datos Personales y el Decreto Supremo N° 003-2013-JUS, Reglamento de la Ley de Protección de Datos Personales, KACERA S.A.C con Registro Único de Contribuyentes (&quot;RUC&quot;) N° 20607102512, con domicilio en Av. Javier prado 6804, La Molina, Lima, Perú. (en adelante, &quot;KACERA&quot;), le informa mediante esta Política de Privacidad (en adelante, la &quot;Política&quot;), las condiciones del tratamiento de su información.
+
+Como parte normal de nuestras actividades, recopilamos información sobre nuestros Usuarios consumidores, Repartidores, Tiendas aliadas y visitantes al sitio web (en adelante, el &quot;Titular&quot;), que acceden y utilizan nuestras aplicaciones Kacera APP, Kacera Repartidor, Crece mas (en adelante, de manera conjunta, las &quot;Aplicaciones&quot;) y sitio web [www.kacera.pe](http://www.kacera.pe/) (en adelante, el &quot;Sitio Web&quot;).
 
 El Titular consiente de manera libre, expresa, previa e informada que KACERA trate los datos personales que usted nos proporcione y los almacene en un banco de datos de su titularidad para los fines establecidos en esta Política.
 
 La información del Titular se almacenará en uno de los siguientes bancos de datos personales, por el plazo señalado, según corresponda:
 
-1) Si usted se registra como Usuario Consumidor en nuestras Aplicaciones y Sitio Web, el banco de datos personales será el &quot;Banco de datos de usuarios consumidores&quot; y será almacenado durante un plazo de 10 años adicionales a la relación contractual entre Kacera y el Usuario Consumidor.
+  1. Si usted se registra como Usuario Consumidor en nuestras Aplicaciones y Sitio Web, el banco de datos personales será el &quot;Banco de datos de usuarios consumidores&quot; y será almacenado durante un plazo de 10 años adicionales a la relación contractual entre Kacera y el Usuario Consumidor.
 
-2) Si usted se registra como Usuario Repartidor en nuestras Aplicaciones y Sitio Web, el banco de datos personales será el &quot;Banco de datos de repartidores independientes&quot; y será almacenado durante un plazo de 10 años adicionales a la relación contractual entre Kacera y el Repartidor.
+  1. Si usted se registra como Usuario Repartidor en nuestras Aplicaciones y Sitio Web, el banco de datos personales será el &quot;Banco de datos de repartidores independientes&quot; y será almacenado durante un plazo de 10 años adicionales a la relación contractual entre Kacera y el Repartidor.
 
-3) Si usted se registra como Tienda Aliada en nuestras Aplicaciones y Sitio Web, el banco de datos personales será el &quot;Banco de datos de tiendas aliadas&quot; y será almacenado durante un plazo de 10 años adicionales a la relación contractual entre Kacera y la Tienda Aliada.
+  1. Si usted se registra como Tienda Aliada en nuestras Aplicaciones y Sitio Web, el banco de datos personales será el &quot;Banco de datos de tiendas aliadas&quot; y será almacenado durante un plazo de 10 años adicionales a la relación contractual entre Kacera y la Tienda Aliada.
 
-4) Si usted envía un reclamo vía el Libro de Reclamaciones Virtual en nuestro Sitio Web, el banco de datos personales será el &quot;Banco de libro de reclamaciones&quot; y será almacenado durante un plazo de 2 años adicionales a la relación contractual entre Kacera y el Usuario Consumidor.
+  1. Si usted envía un reclamo vía el Libro de Reclamaciones Virtual en nuestro Sitio Web, el banco de datos personales será el &quot;Banco de libro de reclamaciones&quot; y será almacenado durante un plazo de 2 años adicionales a la relación contractual entre Kacera y el Usuario Consumidor.
 
 **PRIMERA: Derechos de acceso, rectificación, cancelación y oposición de la Información Personal**
 
