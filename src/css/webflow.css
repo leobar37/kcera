@@ -232,6 +232,26 @@ h1 {
   line-height: 44px;
   margin-top: 20px;
 }
+
+.gr3{
+background-color: #EAFCE4;
+}
+.gr33{
+ color: #1AC91E;
+  }
+
+.gridd{
+  display: grid; 
+  
+  
+}
+.gridd-cols-2{
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.brr{
+  border-radius: 3rem;
+}
 h2 {
   font-size: 32px;
   line-height: 36px;
